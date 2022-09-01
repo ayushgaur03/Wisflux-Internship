@@ -7,7 +7,11 @@
   "type": "module",
   "source": "src",
   "scripts": {
-    "native": "node src/index.js"
+    "native": "node src/index.js",
+    "lodash": "node src/index2.js"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
