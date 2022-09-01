@@ -1,0 +1,13 @@
+{
+  "name": "Wisflux-Internship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ayushgaur03/Wisflux-Internship.git",
+  "author": "Ayush Gaur <ayushgaur02@gmail.com>",
+  "type": "module",
+  "source": "src",
+  "scripts": {
+    "native": "node src/index.js"
+  },
+  "license": "MIT"
+}
